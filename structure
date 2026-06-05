@@ -1,0 +1,22 @@
+wander-app-backend/
+├── src/
+│   ├── main.ts
+│   ├── app.module.ts
+│   ├── auth/
+│   ├── users/
+│   ├── tours/
+│   ├── destinations/
+│   ├── bookings/
+│   ├── payments/
+│   ├── invoices/
+│   ├── notifications/
+│   ├── common/
+│   └── config/
+├── prisma/ (or typeorm migrations)
+├── test/
+├── .env.example
+├── docker-compose.yml
+├── Dockerfile
+├── package.json
+├── tsconfig.json
+└── README.md
