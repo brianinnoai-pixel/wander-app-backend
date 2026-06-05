@@ -1,0 +1,7 @@
+npm install @supabase/supabase-js
+npm install @nestjs/config
+npm install @nestjs/jwt
+npm install @nestjs/passport
+npm install passport passport-jwt
+npm install class-validator class-transformer
+npm install pg
